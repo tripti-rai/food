@@ -55,7 +55,9 @@
 .h-primary {
     font-size: 26px;
 }
-
+.h-secondary{
+    font-size:1.8rem;
+    }
 .btn {
     font-size: 13px;
     padding: 4px 8px;
